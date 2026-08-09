@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Ventura.ai-animation"
+type: software
+authors:
+  - family-names: "Mota de Oliveira"
+    given-names: "Wemerson"
+    alias: "Ventura"
+repository-code: "https://github.com/venturalabs-ai/Ventura.ai-animation"
+url: "https://github.com/venturalabs-ai/Ventura.ai-animation"
+date-released: 2026-08-09
